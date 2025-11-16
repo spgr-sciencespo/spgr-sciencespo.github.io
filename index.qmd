@@ -1,5 +1,5 @@
 ---
-title: "spgr-sciencespo.github.io"
+title: "Sciences Po Graduate Review"
 ---
 
 This is a Quarto website.
