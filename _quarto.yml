@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "spgr-sciencespo.github.io"
+  title: "Sciences Po Graduate Review"
   navbar:
     left:
       - href: index.qmd
